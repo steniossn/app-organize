@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#F200BCD4</color>
+    <color name="colorAccent">#36E6CC</color>
+    <color name="corBranca">#ffffff</color>
+
+
+    <color name="colorPrimaryDespesa">#E91E1E</color>
+    <color name="colorPrimaryDarkDespesa">#F2D40000</color>
+    <color name="colorAccentDespesa">#E93E5E</color>
+
+    <color name="colorPrimaryReceita">#4A8A40</color>
+    <color name="colorPrimaryDarkReceita">#3A7A50</color>
+    <color name="colorAccentReceita">#4A8A30</color>
+
+</resources>
